@@ -1,5 +1,5 @@
 mod challenges;
 
 fn main() {
-  challenges::extra_long_factorial::main();
+  challenges::sequence_equation::main();
 }

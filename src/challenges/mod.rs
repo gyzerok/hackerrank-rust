@@ -2,3 +2,4 @@
 
 pub mod extra_long_factorial;
 pub mod find_digits;
+pub mod sequence_equation;
